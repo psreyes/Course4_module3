@@ -1,0 +1,21 @@
+.btn-right {
+	float: right;
+}
+
+h2 {
+	position: static;
+}
+#cabecera {
+	font-size: 2em;
+}
+
+.container {
+background-color: grey;
+}
+p {
+color: white;
+}
+h3 {
+	text-align: center;
+	color: #4d0000;
+}
